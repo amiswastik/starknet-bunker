@@ -1,0 +1,12 @@
+# Build and temp directories
+**/target/
+**/node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Local config and credentials
+.config/
+*.key
+*.pem
+pending-login.json
